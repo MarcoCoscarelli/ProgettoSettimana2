@@ -139,15 +139,20 @@ main {
     width: 25%; 
     height: 200px;
     float: left;
-    box-sizing: border-box;
-     
+    
+    border-radius: 10px 10px 10px 10px; 
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
-    padding: 20;
+    box-sizing: border-box;
+    padding: 20px;
     
 }
 .gift.grid-img {
+    width: 30%;
     padding: 20px;
+   
+    
+    
+    
 }
 
 
